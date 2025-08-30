@@ -7,5 +7,5 @@
 * Prediction results can be used to give new seller the price suggestion based on market condition.
 
 ## 2) About Dataset.
-* The Dataset is collected from cardheko webiste
+* The Dataset is collected from cardheko website
 * The data consists of 13 column and 15411 rows.
